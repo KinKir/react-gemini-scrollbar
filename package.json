@@ -21,8 +21,9 @@
   "author": "Noel Delgado <auhcsei@gmail.com> (http://pixelia.me/)",
   "license": "MIT",
   "homepage": "https://github.com/noeldelgado/react-gemini-scrollbar",
+  "private": true,
   "dependencies": {
-    "gemini-scrollbar": "1.x.x"
+    "gemini-scrollbar": "git+ssh://git@github.com:vector-im/gemini-scrollbar.git"
   },
   "peerDependencies": {
     "react": "^0.14.0",
